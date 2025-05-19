@@ -805,6 +805,41 @@ video {
   background-color: rgb(255 0 0 / var(--tw-bg-opacity, 1));
 }
 
+.bg-\[\#b1606f\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(177 96 111 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#96b160\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(150 177 96 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#a2da32\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(162 218 50 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#501b71\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(80 27 113 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#9a32da\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(154 50 218 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#ff4de7\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 77 231 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#af209c\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(175 32 156 / var(--tw-bg-opacity, 1));
+}
+
 .p-1 {
   padding: 0.25rem;
 }
